@@ -1,2 +1,3 @@
 Para entender mejor git
-Con un cambio
+Con 1 cambio
+Con otro cambio
